@@ -1,7 +1,6 @@
 # mybooks
+积攒的书籍，花费了几年时间，逐渐积累起来的。好书，受用一生
 
-
-__肉身强大，从书籍开始；内核强悍，从书籍开始。__
 
 # Table of Contents
 1. [Topic Title](#Topic-Title)
