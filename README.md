@@ -30,11 +30,6 @@ __肉身强壮，从运动开始；内核强悍，从书籍开始。__
 ## 历史
 ## 小说
 
-![](https://miro.medium.com/max/640/1*t-jmArgnKSggf-h4uZ2qew.webp)
-
-
-
-
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
