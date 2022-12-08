@@ -15,8 +15,6 @@
 ![](https://miro.medium.com/max/640/1*t-jmArgnKSggf-h4uZ2qew.webp)
 
 
-
-
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
